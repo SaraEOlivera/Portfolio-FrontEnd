@@ -1,0 +1,67 @@
+.seccion-perfil {
+    border: 1px solid gray;
+    border-radius: 12px; 
+    height: 400px;
+}
+
+.presentacion {
+    background-image: url(images/Fondos/fondo.jpg);
+    background-size: auto auto;
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    padding-bottom: 7px;
+    line-height: 2px;
+}
+
+.perfil {
+    width:150px;
+    height:150px;
+    margin-top: 155px;
+    border-radius:160px;
+    border:10px solid #666;
+}
+
+.h4, .text-start{
+    color: rgb(198, 208, 218);
+}
+
+.educacion, .proyectos, .contacto{
+    padding-top: 20px;
+}
+
+.links-proyectos{
+    text-decoration: none;
+    font-size: 26px;
+}
+
+.links-mas{
+    text-decoration: none;
+    color: black;
+}
+
+.barra1{
+    margin-bottom: 40px;
+}
+
+.txt-b1{
+    margin: auto;
+    text-align: center;
+}
+
+.barra2{
+    margin-bottom: 25px;
+}
+.footer{
+    text-align: center;
+}
+.contacto{
+    margin-top: 10px;
+    width: 200px;
+    height: 100px;
+   margin: 0 auto;
+}
+
+
+
+
+

@@ -1,0 +1,14 @@
+* Nav con acerca, educacion, proyectos, contacto + login
+
+* header con foto redondeada y fondo.
+
+* Section acerca de mi
+
+* section Educacion
+
+* Section proyectos
+
+* Section progress bars (hards y soft)
+
+*Footer  contacto con los iconos de IG, Github, Mail
+
